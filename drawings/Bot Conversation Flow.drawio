@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T10:42:55.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="53YRsgGwWECyQbD6QTnG" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T11:49:42.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="9B4WnG2M89zB6mvZVsC_" version="21.3.4" type="github">
   <diagram name="Page-1" id="_XSU-ZiaZUm6kHqfMgjd">
     <mxGraphModel dx="952" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#CCCCCC" math="0" shadow="0">
       <root>
@@ -31,6 +31,9 @@
               <mxPoint x="171" y="200" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KZPDHs1THXpY1xrSXdAi-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KZPDHs1THXpY1xrSXdAi-36" target="KZPDHs1THXpY1xrSXdAi-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8jqBPqb6njljP35rpJpu-13" value="Loan Amount Pending, when &lt;br&gt;can you pay" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="205" y="160" width="180" height="80" as="geometry" />
@@ -126,14 +129,17 @@
         <mxCell id="KZPDHs1THXpY1xrSXdAi-9" value="Get Issue" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;labelBackgroundColor=none;labelBorderColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="490" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KZPDHs1THXpY1xrSXdAi-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8jqBPqb6njljP35rpJpu-13" target="KZPDHs1THXpY1xrSXdAi-12">
+        <mxCell id="KZPDHs1THXpY1xrSXdAi-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8jqBPqb6njljP35rpJpu-13" target="KZPDHs1THXpY1xrSXdAi-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="385" y="180" as="sourcePoint" />
             <mxPoint x="670" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="295" y="285" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KZPDHs1THXpY1xrSXdAi-12" value="Agree to pay" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;labelBackgroundColor=none;labelBorderColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="185" width="90" height="30" as="geometry" />
+          <mxGeometry x="425" y="270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KZPDHs1THXpY1xrSXdAi-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KZPDHs1THXpY1xrSXdAi-14" target="8jqBPqb6njljP35rpJpu-13">
           <mxGeometry relative="1" as="geometry" />
@@ -159,6 +165,29 @@
         </mxCell>
         <mxCell id="KZPDHs1THXpY1xrSXdAi-6" value="Call Initiated" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="120" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZPDHs1THXpY1xrSXdAi-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KZPDHs1THXpY1xrSXdAi-33" target="KZPDHs1THXpY1xrSXdAi-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="280" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="683" y="228" />
+              <mxPoint x="683" y="280" />
+              <mxPoint x="740" y="280" />
+              <mxPoint x="740" y="326" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KZPDHs1THXpY1xrSXdAi-33" value="Our customer service will reach out to you for further information." style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KZPDHs1THXpY1xrSXdAi-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8jqBPqb6njljP35rpJpu-13" target="KZPDHs1THXpY1xrSXdAi-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="200" as="sourcePoint" />
+            <mxPoint x="515" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KZPDHs1THXpY1xrSXdAi-36" value="Miscellaneous&amp;nbsp;&amp;nbsp;Issues" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;labelBackgroundColor=none;labelBorderColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="185" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

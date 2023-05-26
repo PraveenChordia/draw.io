@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T11:49:42.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="9B4WnG2M89zB6mvZVsC_" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T11:54:56.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="qzPB5qhD51xsW58G4aFJ" version="21.3.4" type="github">
   <diagram name="Page-1" id="_XSU-ZiaZUm6kHqfMgjd">
     <mxGraphModel dx="952" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#CCCCCC" math="0" shadow="0">
       <root>
@@ -32,7 +32,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZPDHs1THXpY1xrSXdAi-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KZPDHs1THXpY1xrSXdAi-36" target="KZPDHs1THXpY1xrSXdAi-33">
+        <mxCell id="KZPDHs1THXpY1xrSXdAi-34" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KZPDHs1THXpY1xrSXdAi-36" target="KZPDHs1THXpY1xrSXdAi-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KZPDHs1THXpY1xrSXdAi-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8jqBPqb6njljP35rpJpu-13" target="KZPDHs1THXpY1xrSXdAi-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KZPDHs1THXpY1xrSXdAi-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8jqBPqb6njljP35rpJpu-13" target="KZPDHs1THXpY1xrSXdAi-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8jqBPqb6njljP35rpJpu-13" value="Loan Amount Pending, when &lt;br&gt;can you pay" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -180,14 +186,26 @@
         <mxCell id="KZPDHs1THXpY1xrSXdAi-33" value="Our customer service will reach out to you for further information." style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="165" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KZPDHs1THXpY1xrSXdAi-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8jqBPqb6njljP35rpJpu-13" target="KZPDHs1THXpY1xrSXdAi-36">
+        <mxCell id="KZPDHs1THXpY1xrSXdAi-37" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8jqBPqb6njljP35rpJpu-13" target="KZPDHs1THXpY1xrSXdAi-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="385" y="200" as="sourcePoint" />
             <mxPoint x="515" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZPDHs1THXpY1xrSXdAi-36" value="Miscellaneous&amp;nbsp;&amp;nbsp;Issues" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;labelBackgroundColor=none;labelBorderColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="185" width="140" height="30" as="geometry" />
+          <mxGeometry x="430" y="170" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZPDHs1THXpY1xrSXdAi-48" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KZPDHs1THXpY1xrSXdAi-41" target="KZPDHs1THXpY1xrSXdAi-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KZPDHs1THXpY1xrSXdAi-41" value="Branch Issue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="455" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZPDHs1THXpY1xrSXdAi-45" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KZPDHs1THXpY1xrSXdAi-42" target="KZPDHs1THXpY1xrSXdAi-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KZPDHs1THXpY1xrSXdAi-42" value="Technical Issue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="445" y="200" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

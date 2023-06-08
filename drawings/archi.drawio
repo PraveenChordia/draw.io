@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T08:01:58.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="5SAvRsjA6v3GYOmEwU2o" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T08:17:12.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="BYbd9b_DalftRLNhaK2E" version="21.3.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1663" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1587" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="240" y="90" width="640" height="460" as="geometry" />
         </mxCell>
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-1" value="&lt;br&gt;Postgresql&lt;br&gt;DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="990" y="215" width="70" height="50" as="geometry" />
+          <mxGeometry x="1010" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-3" value="Socket Connetion" style="html=1;whiteSpace=wrap;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="330" y="285" width="120" height="40" as="geometry" />
@@ -61,12 +61,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aAMT6ewFGgkj2NSnzW5G-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aAMT6ewFGgkj2NSnzW5G-26" target="aAMT6ewFGgkj2NSnzW5G-1">
+        <mxCell id="aAMT6ewFGgkj2NSnzW5G-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="aAMT6ewFGgkj2NSnzW5G-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="310" as="targetPoint" />
+            <mxPoint x="850" y="150" as="sourcePoint" />
+            <mxPoint x="1090" y="120" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="930" y="240" />
-              <mxPoint x="930" y="240" />
+              <mxPoint x="1045" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -74,6 +74,9 @@
           <mxGeometry x="-0.2992" y="-3" relative="1" as="geometry">
             <mxPoint x="31" y="-3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aAMT6ewFGgkj2NSnzW5G-105" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.703;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.012;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aAMT6ewFGgkj2NSnzW5G-26" target="aAMT6ewFGgkj2NSnzW5G-104">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-27" value="Bot at&lt;br&gt;Web Socket" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="670" y="285" width="120" height="40" as="geometry" />
@@ -132,7 +135,7 @@
           <mxGeometry x="690" y="10" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-90" value="Dashboard/ interface&amp;nbsp;&lt;br&gt;templates" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="980" y="50" width="179" height="80" as="geometry" />
+          <mxGeometry x="1162" y="140" width="179" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-94" value="- Enable Connection to&lt;br&gt;External Numbers&lt;br&gt;For asterisk" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="70" width="170" height="50" as="geometry" />
@@ -152,14 +155,17 @@
             <mxPoint x="399" y="84" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aAMT6ewFGgkj2NSnzW5G-100" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;exitX=1;exitY=0.5;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="aAMT6ewFGgkj2NSnzW5G-27" target="aAMT6ewFGgkj2NSnzW5G-101">
+        <mxCell id="aAMT6ewFGgkj2NSnzW5G-100" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;exitX=0.75;exitY=1;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="aAMT6ewFGgkj2NSnzW5G-27" target="aAMT6ewFGgkj2NSnzW5G-101">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="420" y="212" as="targetPoint" />
             <mxPoint x="419" y="106" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-101" value="- Communicates with Client&lt;br&gt;- Speech to Text using GPU, Intent Identification and Responding to Client" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="960" y="370" width="230" height="70" as="geometry" />
+          <mxGeometry x="890" y="420" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aAMT6ewFGgkj2NSnzW5G-104" value="External API(s)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_exchange_for_apis;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="259" width="92" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

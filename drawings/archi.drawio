@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T06:53:37.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="kdprl94NI09cU45wQgwg" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T07:00:28.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="hLae-TfXGzSwlVGMtJP1" version="21.3.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1120" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aAMT6ewFGgkj2NSnzW5G-6" value="Instance" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aAMT6ewFGgkj2NSnzW5G-6" value="Instance" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="175" y="100" width="645" height="390" as="geometry" />
         </mxCell>
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-1" value="&lt;br&gt;Postgresql&lt;br&gt;DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="920" y="120" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aAMT6ewFGgkj2NSnzW5G-3" value="Socket Connetion" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aAMT6ewFGgkj2NSnzW5G-3" value="Socket Connetion" style="html=1;whiteSpace=wrap;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="260" y="285" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aAMT6ewFGgkj2NSnzW5G-5" target="aAMT6ewFGgkj2NSnzW5G-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aAMT6ewFGgkj2NSnzW5G-26" value="Django Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aAMT6ewFGgkj2NSnzW5G-26" value="Django Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="500" y="130" width="240" height="250" as="geometry" />
         </mxCell>
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-4" value="HTTP(s)" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="540" y="180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aAMT6ewFGgkj2NSnzW5G-5" value="Asterisk Server" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aAMT6ewFGgkj2NSnzW5G-5" value="Asterisk Server" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="260" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-14" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-27" value="Web Socket" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="540" y="285" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aAMT6ewFGgkj2NSnzW5G-29" value="GPU&lt;br&gt;(Nvidia Series)" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aAMT6ewFGgkj2NSnzW5G-29" value="GPU&lt;br&gt;(Nvidia Series)" style="html=1;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="545" y="410" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aAMT6ewFGgkj2NSnzW5G-29" target="aAMT6ewFGgkj2NSnzW5G-27">

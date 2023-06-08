@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T08:53:40.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="OT-b-kUYrXW-Hqw2X1Sm" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T08:55:04.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="I-ImpVbYOcEeh3aZ15W0" version="21.3.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1465" dy="1980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" background="none" math="0" shadow="1">
       <root>
@@ -128,9 +128,6 @@
             <mxPoint x="530" y="-1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aAMT6ewFGgkj2NSnzW5G-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aAMT6ewFGgkj2NSnzW5G-88" target="aAMT6ewFGgkj2NSnzW5G-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-88" value="- API communicates with Asterisk to initiate calls&lt;br&gt;- Dashborad/ interface" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="770" y="-1080" width="160" height="70" as="geometry" />
         </mxCell>
@@ -170,6 +167,16 @@
         </mxCell>
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-104" value="External API(s)" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_exchange_for_apis;" vertex="1" parent="1">
           <mxGeometry x="1190" y="-831" width="92" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="aAMT6ewFGgkj2NSnzW5G-106" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;exitX=0.5;exitY=1;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aAMT6ewFGgkj2NSnzW5G-88" target="aAMT6ewFGgkj2NSnzW5G-4">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="480" y="-900" as="targetPoint" />
+            <mxPoint x="479" y="-1006" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="850" y="-930" />
+              <mxPoint x="810" y="-930" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

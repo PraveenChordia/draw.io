@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T07:12:06.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="RvL7L8MrLQX-W9kILuCm" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T07:13:02.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="Li7-0YjdDwNZAE03P_GQ" version="21.3.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1402" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
             <mxPoint x="31" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aAMT6ewFGgkj2NSnzW5G-27" value="Web Socket" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aAMT6ewFGgkj2NSnzW5G-27" value="Bot at&lt;br&gt;Web Socket" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="670" y="285" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aAMT6ewFGgkj2NSnzW5G-29" value="GPU&lt;br&gt;(Nvidia Series)" style="html=1;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">

@@ -1,0 +1,318 @@
+<mxfile host="app.diagrams.net" modified="2023-06-23T11:38:35.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" version="21.5.0" etag="1yqSqNhHMXBKuDOkn36D" type="github">
+  <diagram name="Page-1" id="A8u1cGYjJxs3ynTsOh-E">
+    <mxGraphModel dx="2547" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ubHi6udfQPmIiIhLqrcd-1" target="ubHi6udfQPmIiIhLqrcd-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-4" value="बाद मैं कल करना&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ubHi6udfQPmIiIhLqrcd-3" vertex="1" connectable="0">
+          <mxGeometry x="0.4248" relative="1" as="geometry">
+            <mxPoint y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D9SxiUH87e-Rk3kENxuC-22" target="ubHi6udfQPmIiIhLqrcd-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="480" />
+              <mxPoint x="385" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-53" value="date &amp;lt; 8 days" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ubHi6udfQPmIiIhLqrcd-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.3039" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ubHi6udfQPmIiIhLqrcd-1" target="ubHi6udfQPmIiIhLqrcd-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-10" value="नहीं दे सकता&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ubHi6udfQPmIiIhLqrcd-9" vertex="1" connectable="0">
+          <mxGeometry x="0.5294" y="-3" relative="1" as="geometry">
+            <mxPoint x="-141" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ubHi6udfQPmIiIhLqrcd-1" target="6fWgPlhkaPKUbiOBDTXt-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199.99999999999955" y="180" as="targetPoint" />
+            <mxPoint x="430" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="450" y="240" />
+              <mxPoint x="900" y="240" />
+              <mxPoint x="900" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-1" value="आपकी ई.एम.आई बाकी&lt;br&gt;है, क्या एप पेमेंट कर सकते&lt;br&gt;hai" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="260" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="ubHi6udfQPmIiIhLqrcd-2" target="ubHi6udfQPmIiIhLqrcd-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-14" value="हा&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ubHi6udfQPmIiIhLqrcd-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.265" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="ubHi6udfQPmIiIhLqrcd-2" target="ubHi6udfQPmIiIhLqrcd-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-17" value="नहीं&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ubHi6udfQPmIiIhLqrcd-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.1891" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-2" value="पेमेंट नहीं करने से सेबील स्कोर खराब हो सकता है&lt;br&gt;क्या पेमेंट कर सकते है&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ubHi6udfQPmIiIhLqrcd-5" target="D9SxiUH87e-Rk3kENxuC-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-5" value="पुरा पेमेंट देने के लिए तैयार रहे। धन्यवाद" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="ubHi6udfQPmIiIhLqrcd-8" target="D9SxiUH87e-Rk3kENxuC-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-21" value="हा कर सकते है&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.0464" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="ubHi6udfQPmIiIhLqrcd-8" target="6fWgPlhkaPKUbiOBDTXt-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="620" />
+              <mxPoint x="600" y="620" />
+              <mxPoint x="600" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-17" value="नहीं कर सकता&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6fWgPlhkaPKUbiOBDTXt-16" vertex="1" connectable="0">
+          <mxGeometry x="0.6341" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-8" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;पेमेंट नहीं करने से सेबील स्कोर खराब हो सकता है&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;क्या आप पेमेंट कर सकते है?&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="750" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" source="ubHi6udfQPmIiIhLqrcd-12" target="D9SxiUH87e-Rk3kENxuC-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-18" value="आज नहीं कर पाऊँगा&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.1688" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-12" value="आज पैसा जमा कर देना ब्रांच मैं" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ubHi6udfQPmIiIhLqrcd-15" target="D9SxiUH87e-Rk3kENxuC-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-46" value="समय&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-45" vertex="1" connectable="0">
+          <mxGeometry x="-0.26" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ubHi6udfQPmIiIhLqrcd-15" value="कब फोन करे?" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="D9SxiUH87e-Rk3kENxuC-2" target="D9SxiUH87e-Rk3kENxuC-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-5" value="हाँ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-4" vertex="1" connectable="0">
+          <mxGeometry x="0.3052" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" source="D9SxiUH87e-Rk3kENxuC-2" target="D9SxiUH87e-Rk3kENxuC-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-8" value="नहीं कर पाऊँगा" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.2533" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-2" value="आपके देय तिथि निकट है, कृपया जल्द पेमेंट जमा कराए&amp;nbsp;&lt;br&gt;क्या आज पेमेंट कर देंगे?" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="710" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-3" value="धन्यवाद" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="D9SxiUH87e-Rk3kENxuC-6" target="D9SxiUH87e-Rk3kENxuC-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-12" value="हाँ&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.12" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" source="D9SxiUH87e-Rk3kENxuC-6" target="D9SxiUH87e-Rk3kENxuC-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-20" value="नहीं" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-14" vertex="1" connectable="0">
+          <mxGeometry x="0.2156" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-6" value="क्या कल जमा कर देंगे?&lt;br&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-9" value="end" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="610" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="D9SxiUH87e-Rk3kENxuC-13" target="D9SxiUH87e-Rk3kENxuC-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-16" value="हाँ&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.0875" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="D9SxiUH87e-Rk3kENxuC-13" target="6fWgPlhkaPKUbiOBDTXt-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-13" value="नहीं&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-43" vertex="1" connectable="0">
+          <mxGeometry x="-0.23" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-13" value="क्या दो दिन बाद जमा कर देंगे?" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ubHi6udfQPmIiIhLqrcd-1" target="D9SxiUH87e-Rk3kENxuC-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="330" as="sourcePoint" />
+            <mxPoint x="385" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-24" value="अगली मीट मैं दूंगा&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.3267" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="D9SxiUH87e-Rk3kENxuC-49" target="ubHi6udfQPmIiIhLqrcd-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-22" value="meet&lt;br&gt;date" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="357.5" y="390" width="55" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D9SxiUH87e-Rk3kENxuC-27" target="ubHi6udfQPmIiIhLqrcd-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-30" value="हाँ&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.3117" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D9SxiUH87e-Rk3kENxuC-27" target="D9SxiUH87e-Rk3kENxuC-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-35" value="नहीं&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-34" vertex="1" connectable="0">
+          <mxGeometry x="-0.2033" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-27" value="नमस्कार, मैं सनाटा फाइनैन्स सी आलिशा बात कर रही हु, क्या हम बात कर सकते है&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.704;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="D9SxiUH87e-Rk3kENxuC-31" target="ubHi6udfQPmIiIhLqrcd-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="635" y="200" />
+              <mxPoint x="411" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-37" value="हाँ&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-36" vertex="1" connectable="0">
+          <mxGeometry x="-0.2763" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D9SxiUH87e-Rk3kENxuC-31" target="D9SxiUH87e-Rk3kENxuC-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-41" value="नहीं&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-40" vertex="1" connectable="0">
+          <mxGeometry x="-0.2732" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-31" value="ये कल आप लोन के संबंध मैं बात करने के लिए है, और ये महत्वपूर्ण है, जो आप के सेबील स्कोर पर असर दल सकता है, क्या हम बात कर सकते है?&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="75" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-39" value="हम दो दिन बाद फॉलोअप के लिए कॉल करेंगे" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="805" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-42" value="दो दिन मैं हमारा आदमी आपसे संपर्क कर के आपकी समस्या हाल करेगा, हम आपको दो दिन बाद फॉलो उप के लिए कल करेंगे&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="1010" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-44" value="हम वापिस समय पर फोन करेंगे&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="D9SxiUH87e-Rk3kENxuC-22" target="D9SxiUH87e-Rk3kENxuC-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="415" as="sourcePoint" />
+            <mxPoint x="720" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-48" value="date &amp;gt; 8 days" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9SxiUH87e-Rk3kENxuC-47" vertex="1" connectable="0">
+          <mxGeometry x="-0.3378" y="3" relative="1" as="geometry">
+            <mxPoint x="5" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9SxiUH87e-Rk3kENxuC-49" value="आपकी देय तिथि नसदिक है," style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6fWgPlhkaPKUbiOBDTXt-4" target="6fWgPlhkaPKUbiOBDTXt-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-4" value="ब्रांच नहीं जा सकता" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="650" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6fWgPlhkaPKUbiOBDTXt-5" target="6fWgPlhkaPKUbiOBDTXt-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-9" value="एक/ दो दिन मैं भेजो&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6fWgPlhkaPKUbiOBDTXt-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.2473" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6fWgPlhkaPKUbiOBDTXt-5" target="6fWgPlhkaPKUbiOBDTXt-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-12" value="मत भेजो&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6fWgPlhkaPKUbiOBDTXt-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.27" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-5" value="हम हमारे आदमी को आप के पास भेजते है, कब भेजे&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-7" value="हमारा आदमी आएगा&amp;nbsp;&lt;br&gt;आप पेमेंट तैयार रखे&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6fWgPlhkaPKUbiOBDTXt-14" target="D9SxiUH87e-Rk3kENxuC-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6fWgPlhkaPKUbiOBDTXt-14" target="6fWgPlhkaPKUbiOBDTXt-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-20" value="स्वर्गवास हो गया किसी का&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6fWgPlhkaPKUbiOBDTXt-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.2116" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-14" value="क्या वजह है" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fWgPlhkaPKUbiOBDTXt-18" value="?" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="970" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

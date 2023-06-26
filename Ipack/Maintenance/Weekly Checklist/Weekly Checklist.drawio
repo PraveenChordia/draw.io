@@ -1,0 +1,67 @@
+<mxfile host="65bd71144e" scale="1" border="10">
+    <diagram id="AlmZEZmqCw9I7p1iNyBx" name="Page-1">
+        <mxGraphModel dx="1002" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Auto Generated&lt;br&gt;Checklist&lt;br&gt;Every Week" style="html=1;" vertex="1" parent="1">
+                    <mxGeometry x="358" y="40" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="4" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="4" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Notification to Engineers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="16">
+                    <mxGeometry x="0.275" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="Maintenance Supervisor/Planner&lt;br&gt;will Assign Engineers&lt;br&gt;with Time slots" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="353" y="165" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Engineer's mark task as OK/NOT OK." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="353" y="305" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="10" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="If any anomaly is found, Register an planned order for same" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="353" y="445" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="18" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="26">
+                    <mxGeometry x="0.162" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="18" target="23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="27">
+                    <mxGeometry x="0.2541" y="3" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="All task&lt;br&gt;done" style="rhombus;whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);" vertex="1" parent="1">
+                    <mxGeometry x="373" y="575" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Mark&lt;br&gt;Expired" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="585" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Mark&lt;br&gt;Done" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="585" width="60" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
